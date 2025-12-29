@@ -1,6 +1,4 @@
-name = 'John Smith'
-age = 20
-has_patient_history = False
-print(name)
-print(age)
-print(has_patient_history)
+name=input('What is your name?')
+print("hi " + name)
+favorite_color = input('What is your favorite color?')
+print("hi " + name +". Awsome! " + favorite_color + " is such a great color.")
