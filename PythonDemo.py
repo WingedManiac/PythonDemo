@@ -1,3 +1,19 @@
-weight_lbs = input("Enter Weight (lbs): ")
-weight_kgs = (int(weight_lbs)/2.205)
-print('You weight ' + str(weight_kgs) + 'kgs')
+course = 'python for beginners'
+print(course)
+course = "python's course for beginners"
+print(course)
+course = 'python for "beginners"'
+print(course)
+course =''' 
+Hi Gabriel,
+ 
+ Here is our first email to you.
+ 
+ Thanks, 
+ The support team
+'''
+print(course)
+
+course = 'python for beginners'
+print(course[0])
+
